@@ -5,11 +5,11 @@ Welcome to the PHP-CODE repository! This repository is a collection of PHP proje
 ## Table of Contents
 
 - [Projects](#projects)
-  - [Project 1](/Login \System)
+  - [Login System](Login%20System/)
 
 ## Projects
 
 ### Project 1
 
-Description: - [PHP-CODE/Login \System](#loginsystem).
+Description: - [Login System](Login%20System/)
 
