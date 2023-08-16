@@ -1,0 +1,9 @@
+Here is how i created the users table
+```
+CREATE TABLE users (
+	idUsers int(11) AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    uidUsers TINYTEXT NOT NULL,
+    emailUsers TINYTEXT NOT NULL,
+    pwdUsers LONGTEXT NOT NULL
+);
+```
