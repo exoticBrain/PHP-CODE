@@ -11,5 +11,5 @@ Welcome to the PHP-CODE repository! This repository is a collection of PHP proje
 
 ### Project 1
 
-Description: - [Login System](Login%20System/)
+- [Login System](Login%20System/)
 
