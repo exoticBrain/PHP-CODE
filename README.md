@@ -5,10 +5,7 @@ Welcome to the PHP-CODE repository! This repository is a collection of PHP proje
 ## Table of Contents
 
 - [Projects](#projects)
-- [Algorithms](#algorithms)
-- [Code Snippets](#code-snippets)
-- [Contributing](#contributing)
-- [License](#license)
+  - [Project 1](Login System)
 
 ## Projects
 
